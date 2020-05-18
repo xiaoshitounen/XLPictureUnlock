@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="XLPictureUnlock">
+        <!--正常状态的图片资源-->
+        <attr name="normal_image_id" format="reference"/>
+        <!--选中状态的图片资源-->
+        <attr name="select_image_id" format="reference"/>
+        <!--点的大小-->
+        <attr name="dot_size" format="integer"/>
+        <!--线条的颜色-->
+        <attr name="line_color" format="color"/>
+        <!--线条的宽度-->
+        <attr name="line_width" format="integer"/>
+        <!--选中的点是否能够再次选择-->
+        <attr name="can_select_again" format="boolean"/>
+    </declare-styleable>
+</resources>
