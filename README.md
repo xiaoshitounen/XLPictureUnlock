@@ -2,9 +2,9 @@
 
 详细内容博客地址:
 
-[自定义View-XLPictureUnlock](https://fanandjiu.com/%E8%87%AA%E5%AE%9A%E4%B9%89View-XLPictureUnlock/#more)
+[自定义View-XLPictureUnlock](http://www.fanandjiu.com/article/b4a475cc.html)
 
-[Android项目10：手势解锁](https://fanandjiu.com/Android%E9%A1%B9%E7%9B%AE10%EF%BC%9A%E6%89%8B%E5%8A%BF%E8%A7%A3%E9%94%81/#more)
+[Android项目10：手势解锁](http://www.fanandjiu.com/article/29270e87.html)
 
 
 简介：
